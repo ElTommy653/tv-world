@@ -304,7 +304,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/12549.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/12548.ts 
 #EXTINF: -1 tvg-id=''Bein Sports 07'' tvg-logo=''BS7.svg'' group-title=''Deportes'',Bein Sports 07
 http://kstv.us:8080/live/N427DpynGE/7049166651/12547.ts
-#EXTINF: -1 tvg-id=''Bein Sports 08 News'' tvg-logo=''BS8.svg'' group-title=''Deportes'',Bein Sports 8 News
+#EXTINF: -1 tvg-id=''Bein Sports 08 News'' tvg-logo=''BS8.svg'' group-title=''Deportes'',Bein Sports 08 News
 http://kstv.us:8080/live/N427DpynGE/7049166651/12546.ts
 #EXTINF: -1 tvg-id=''Bein Sports 09 Xtra'' tvg-logo=''BS9.svg'' group-title=''Deportes'',Bein Sports 09 Xtra
 http://kstv.us:8080/live/N427DpynGE/7049166651/12545.ts
@@ -360,7 +360,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47099.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47100.ts
 #EXTINF: -1 tvg-id=''DEPORTES | ESPN 3 SUR'' tvg-logo=''png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail-png'' group-title=''Deportes'',DEPORTES | ESPN 3 SUR
 http://kstv.us:8080/live/N427DpynGE/7049166651/47103.ts
-#EXTINF: -1 tvg-id=''DEPORTES | ESPN 3 SUR HD'' tvg-logo=''png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail-png'' group-title=''Deportes'', DEPORTES | ESPN 3 SUR HD
+#EXTINF: -1 tvg-id=''DEPORTES | ESPN 3 SUR HD'' tvg-logo=''png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail-png'' group-title=''Deportes'',DEPORTES | ESPN 3 SUR HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47104.ts
 #EXTINF: -1 tvg-id=''LAT-A | TYC SPORTS (ARGENTINA)'' tvg-logo=''TyCSp.png'' group-title=''Deportes'',LAT-A | TYC SPORTS (ARGENTINA)
 http://kstv.us:8080/live/N427DpynGE/7049166651/46748.ts
