@@ -241,3 +241,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/46836.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/46837.ts
 #EXTINF: -1 tvg-id=''LAT-C | Tigo Sports C.R. HD (Costa Rica)'' tvg-logo=''Tigo_Sports_2025.png'' group-title=''Deportes'',LAT-C | Tigo Sports C.R. HD (Costa Rica)
 http://kstv.us:8080/live/N427DpynGE/7049166651/46831.ts
+#EXTINF: -1 tvg-id=''LAT-A | DEPORTV (ARGENTINA)'' tvg-logo=''DeporTV_(2020_Logo_oficial).png'' group-title=''Deportes'',LAT-A | DEPORTV (ARGENTINA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46722.ts
+#EXTINF: -1 tvg-id=''LAT-A | DEPORTV HD (ARGENTINA)'' tvg-logo=''DeporTV_(2020_Logo_oficial).png'' group-title=''Deportes'',LAT-A | DEPORTV HD (ARGENTINA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46723.ts
