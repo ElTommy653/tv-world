@@ -2,19 +2,19 @@
 
 ====================================================================================USA================================================================================
 
-#EXTINF: -1 tvg-id=''US | A&E'' tvg-logo=''A&E_Network_logo.svg.png''
+#EXTINF: -1 tvg-id=''US | A&E'' tvg-logo=''AnE-White-Small-1.wepb''
 http://kstv.us:8080/live/N427DpynGE/7049166651/15966.ts
-#EXTINF: -1 tvg-id=''US | ABC
+#EXTINF: -1 tvg-id=''US | ABC'' tvg-logo=''ABC-2021-LOGO.svg.png''
 http://kstv.us:8080/live/N427DpynGE/7049166651/15956.ts
-#EXTINF: -1 tvg-id=''US | ABC EAST HD
+#EXTINF: -1 tvg-id=''US | ABC EAST HD'' tvg-logo=''ABC-LOGO-2021.svg.png''
 http://kstv.us:8080/live/N427DpynGE/7049166651/23363.ts
-#EXTINF: -1 tvg-id=''US | ABC News
+#EXTINF: -1 tvg-id=''US | ABC News'' tvg-logo=''ABC_News_logo_2021.svg.png''
 http://kstv.us:8080/live/N427DpynGE/7049166651/15967.ts
-#EXTINF: -1 tvg-id=''US | AL JAZEERA NEWS ENGLISH HD
+#EXTINF: -1 tvg-id=''US | AL JAZEERA NEWS ENGLISH HD'' tvg-logo=''Aljazeera_eng.svg.png''
 http://kstv.us:8080/live/N427DpynGE/7049166651/23361.ts
-#EXTINF: -1 tvg-id=''US | AMC''
+#EXTINF: -1 tvg-id=''US | AMC'' tvg-logo=''AMC_logo_2019.svg.png''
 http://kstv.us:8080/live/N427DpynGE/7049166651/22572.ts
-#EXTINF: -1 tvg-id=''US | AMC HD''
+#EXTINF: -1 tvg-id=''US | AMC HD'' tvg-logo=''AMC_logo_2019.svg.png''
 http://kstv.us:8080/live/N427DpynGE/7049166651/15923.ts
 #EXTINF: -1 tvg-id=''US | AMERICAN HEROES CHANNEL HD''
 http://kstv.us:8080/live/N427DpynGE/7049166651/23360.ts
