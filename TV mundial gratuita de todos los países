@@ -494,3 +494,5 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/23316.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/46754.ts
 #EXTINF: -1 tvg-id=''DEPORTES | TUDN HD'' tvg-logo=''TUDN_LOGO_COLOR.png'' group-title=''Deportes'',DEPORTES | TUDN
 http://kstv.us:8080/live/N427DpynGE/7049166651/47140.ts
+#EXTINF: -1 tvg-id=''DEPORTES | CLARO SPORTS'' tvg-logo=''ClaroSportsLogo.png'' group-title=''Deportes'',DEPORTES | CLARO SPORTS
+http://kstv.us:8080/live/N427DpynGE/7049166651/47091.ts
