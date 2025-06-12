@@ -1,24 +1,22 @@
-#EXTM3U
-
 ====================================================================================USA================================================================================
-
-#EXTINF: -1 tvg-id=''US | A&E'' tvg-logo=''AnE-White-Small-1.wepb''
+#EXTM3U
+#EXTINF: -1 tvg-id=''US | A&E'' tvg-logo=''AnE-White-Small-1.wepb'' group-title=''USA'', US | A&E
 http://kstv.us:8080/live/N427DpynGE/7049166651/15966.ts
-#EXTINF: -1 tvg-id=''US | ABC'' tvg-logo=''ABC-2021-LOGO.svg.png''
+#EXTINF: -1 tvg-id=''US | ABC'' tvg-logo=''ABC-2021-LOGO.svg.png'' group-title=''USA'', US | ABC
 http://kstv.us:8080/live/N427DpynGE/7049166651/15956.ts
-#EXTINF: -1 tvg-id=''US | ABC EAST HD'' tvg-logo=''ABC-LOGO-2021.svg.png''
+#EXTINF: -1 tvg-id=''US | ABC EAST HD'' tvg-logo=''ABC-LOGO-2021.svg.png'' group-title=''USA'', US | ABC EAST HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/23363.ts
-#EXTINF: -1 tvg-id=''US | ABC News'' tvg-logo=''ABC_News_logo_2021.svg.png''
+#EXTINF: -1 tvg-id=''US | ABC News'' tvg-logo=''ABC_News_logo_2021.svg.png'' group-title=''USA'', US | ABC News
 http://kstv.us:8080/live/N427DpynGE/7049166651/15967.ts
-#EXTINF: -1 tvg-id=''US | AL JAZEERA NEWS ENGLISH HD'' tvg-logo=''Aljazeera_eng.svg.png''
+#EXTINF: -1 tvg-id=''US | AL JAZEERA NEWS ENGLISH HD'' tvg-logo=''Aljazeera_eng.svg.png'' group-title=''USA'', US | AL JAZEERA NEWS ENGLISH HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/23361.ts
-#EXTINF: -1 tvg-id=''US | AMC'' tvg-logo=''AMC_logo_2019.svg.png''
+#EXTINF: -1 tvg-id=''US | AMC'' tvg-logo=''AMC_logo_2019.svg.png'' group-title=''USA'', US | AMC
 http://kstv.us:8080/live/N427DpynGE/7049166651/22572.ts
-#EXTINF: -1 tvg-id=''US | AMC HD'' tvg-logo=''AMC_logo_2019.svg.png''
+#EXTINF: -1 tvg-id=''US | AMC HD'' tvg-logo=''AMC_logo_2019.svg.png''group-title=''USA'', US | AMC
 http://kstv.us:8080/live/N427DpynGE/7049166651/15923.ts
-#EXTINF: -1 tvg-id=''US | AMERICAN HEROES CHANNEL HD''
+#EXTINF: -1 tvg-id=''US | AMERICAN HEROES CHANNEL HD'' tvg-logo=''500-5008283_dish-network-channel-1998-direct-tv-dish-network.png'' group-title=''USA'', US | AMERICAN HEROES CHANNEL HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/23360.ts
-#EXTINF: -1 tvg-id=''US | ANTENNA TV''
+#EXTINF: -1 tvg-id=''US | ANTENNA TV'' tvg-logo=''Antenna_TV_2022_orange.png'' group-title=''USA'', US | ANTENNA TV
 http://kstv.us:8080/live/N427DpynGE/7049166651/23228.ts
 #EXTINF: -1 tvg-id=''US | Action Max HD''
 http://kstv.us:8080/live/N427DpynGE/7049166651/15924.ts
