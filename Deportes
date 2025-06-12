@@ -55,7 +55,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47102.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47108.ts
 #EXTINF: -1 tvg-id=''DEPORTES | ESPN PLUS MEXICO'' tvg-logo=''ESPN_Plus.svg.png'' group-title=''Deportes'',DEPORTES | ESPN PLUS MEXICO
 http://kstv.us:8080/live/N427DpynGE/7049166651/47109.ts
-#EXTINF: -1 tvg-id=''DEPORTES | ESPN PLUS MEXICO HD'' tvg-logo=''ESPN_Plus.svg.png'', group-title=''Deportes'',DEPORTES | ESPN PLUS MEXICO HD
+#EXTINF: -1 tvg-id=''DEPORTES | ESPN PLUS MEXICO HD'' tvg-logo=''ESPN_Plus.svg.png'' group-title=''Deportes'',DEPORTES | ESPN PLUS MEXICO HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47110.ts
 #EXTINF: -1 tvg-id=''DEPORTES | ESPN U MEXICO'' tvg-logo=''ESPN_U_logo.svg'' group-title=''Deportes'',DEPORTES | ESPN U MEXICO
 http://kstv.us:8080/live/N427DpynGE/7049166651/47113.ts
@@ -215,3 +215,29 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47095.ts
 #EXTINF: -1 tvg-id=''DEPORTES | DIRECTV SPORTS + HD'' tvg-logo=''DSportsMás.png'' group-title=''Deportes'',DEPORTES | DIRECTV SPORTS + HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47093.ts
+#EXTINF: -1 tvg-id=''LAT-B | TIGO SPORTS 1 HD (BOLIVIA)'' tvg-logo=''Tigo_Sports_2025.png'' group-title=''Deportes'',LAT-B | TIGO SPORTS 1 HD (BOLIVIA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46760.ts
+#EXTINF: -1 tvg-id=''LAT-B | TIGO SPORTS 1 SD (BOLIVIA)'' tvg-logo=''Tigo_Sports_2025.png'' group-title=''Deportes'',LAT-B | TIGO SPORTS 1 SD (BOLIVIA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46761.ts
+#EXTINF: -1 tvg-id=''LAT-B | TIGO SPORTS 2 HD (BOLIVIA)'' tvg-logo=''Tigo_Sports_2025.png'' group-title=''Deportes'',LAT-B | TIGO SPORTS 2 HD (BOLIVIA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46762.ts
+#EXTINF: -1 tvg-id=''LAT-B | TIGO SPORTS 2 SD (BOLIVIA)'' tvg-logo=''Tigo_Sports_2025.png'' group-title=''Deportes'',LAT-B | TIGO SPORTS 2 SD (BOLIVIA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46763.ts
+#EXTINF: -1 tvg-id=''Teletrak TV (Chile)'' tvg-logo=''Teletrak_TV_2020.svg'' group-title=''Deportes'',Teletrak TV (Chile)
+https://teletraktv.janus.cl/playlist/stream.m3u8?d=w&id=mbtyercv&t=1749767234&q=2
+#EXTINF: -1 tvg-id=''LAT-H | TIGO SPORTS (HONDURAS)'' tvg-logo=''Tigo_Sports_2025.png'' group-title=''Deportes'',LAT-H | TIGO SPORTS (HONDURAS)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46906.ts
+#EXTINF: -1 tvg-id=''LAT-P | Tigo Sports (PARAGUAY)'' tvg-logo=''Tigo_Sports_2025.png'' group-title=''Deportes'',LAT-P | Tigo Sports (PARAGUAY)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47031.ts
+#EXTINF: -1 tvg-id=''LAT-P | TIGO SPORTS (PARAGUAY)'' tvg-logo=''Tigo_Sports_2025.png'' group-title=''Deportes'',LAT-P | TIGO SPORTS (PARAGUAY)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47032.ts
+#EXTINF: -1 tvg-id=''LAT-P | Tigo Sports Plus (PARAGUAY)'' tvg-logo=''Tigo_Sports_2025.png'' group-title=''Deportes'',LAT-P | Tigo Sports Plus (PARAGUAY)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47033.ts
+#EXTINF: -1 tvg-id=''LAT-C | WinSports FHD (COLOMBIA)'' tvg-logo=''large.WINSPORTS.jpeg.f19687c1ae3d0243233566eb4483fd.jpeg'' group-title=''Deportes'',LAT-C | WinSports FHD (COLOMBIA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46835.ts
+#EXTINF: -1 tvg-id=''LAT-C | WinSports FHD* (COLOMBIA)'' tvg-logo=''large.WINSPORTS.jpeg.f19687c1ae3d0243233566eb4483fd.jpeg'' group-title=''Deportes'',LAT-C | WinSports FHD (COLOMBIA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46836.ts
+#EXTINF: -1 tvg-id=''LAT-C | WinSports HD (COLOMBIA)'' tvg-logo=''large.WINSPORTS.jpeg.f19687c1ae3d0243233566eb4483fd.jpeg'' group-title=''Deportes'',LAT-C | WinSports HD (COLOMBIA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46837.ts
+#EXTINF: -1 tvg-id=''LAT-C | Tigo Sports C.R. HD (Costa Rica)'' tvg-logo=''Tigo_Sports_2025.png'' group-title=''Deportes'',LAT-C | Tigo Sports C.R. HD (Costa Rica)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46831.ts
