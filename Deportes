@@ -245,3 +245,5 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/46831.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/46722.ts
 #EXTINF: -1 tvg-id=''LAT-A | DEPORTV HD (ARGENTINA)'' tvg-logo=''DeporTV_(2020_Logo_oficial).png'' group-title=''Deportes'',LAT-A | DEPORTV HD (ARGENTINA)
 http://kstv.us:8080/live/N427DpynGE/7049166651/46723.ts
+#EXTINF: -1 tvg-id''ES Dazn 1 SD'' tvg-logo=''DAZN_1_2024.svg'' group-title=''Deportes'',ES Dazn 1 SD
+http://hidra.live:80/live/eufTQNgNXv/ojxBLcjY/335429.ts
