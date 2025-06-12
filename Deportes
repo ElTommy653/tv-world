@@ -1,7 +1,5 @@
-#EXTM3U
-
 ==========================================================================Deportes=====================================================================================
-
+#EXTM3U
 #EXTINF: -1 tvg-id=''Bein Sports 01'' tvg-logo=''Bein Sports 1.png'' group-title=''Deportes'',Bein Sports 01
 http://kstv.us:8080/live/N427DpynGE/7049166651/12553.ts
 #EXTINF: -1 tvg-id=''Bein Sports 02'' tvg-logo=''Bein Sports 2.png'' group-title=''Deportes'',Bein Sports 02
@@ -206,3 +204,5 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/23316.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/46754.ts
 #EXTINF: -1 tvg-id=''DEPORTES | TUDN HD'' tvg-logo=''TUDN_LOGO_COLOR.png'' group-title=''Deportes'',DEPORTES | TUDN
 http://kstv.us:8080/live/N427DpynGE/7049166651/47140.ts
+#EXTINF: -1 tvg-id=''DEPORTES | CLARO SPORTS'' tvg-logo=''ClaroSportsLogo.png'' group-title=''Deportes'',DEPORTES | CLARO SPORTS
+http://kstv.us:8080/live/N427DpynGE/7049166651/47091.ts
