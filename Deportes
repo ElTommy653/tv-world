@@ -1,4 +1,3 @@
-==========================================================================Deportes=====================================================================================
 #EXTM3U
 #EXTINF: -1 tvg-id=''Bein Sports 01'' tvg-logo=''Bein Sports 1.png'' group-title=''Deportes'',Bein Sports 01
 http://kstv.us:8080/live/N427DpynGE/7049166651/12553.ts
@@ -206,3 +205,13 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/46754.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47140.ts
 #EXTINF: -1 tvg-id=''DEPORTES | CLARO SPORTS'' tvg-logo=''ClaroSportsLogo.png'' group-title=''Deportes'',DEPORTES | CLARO SPORTS
 http://kstv.us:8080/live/N427DpynGE/7049166651/47091.ts
+#EXTINF: -1 tvg-id=''DEPORTES | DIRECTV SPORTS'' tvg-logo=''DSports.png'' group-title=''Deportes'',DEPORTES | DIRECTV SPORTS
+http://kstv.us:8080/live/N427DpynGE/7049166651/47092.ts
+#EXTINF: -1 tvg-id=''DEPORTES | DIRECTV SPORTS HD'' tvg-logo=''DSports.png'' group-title=''Deportes'',DEPORTES | DIRECTV SPORTS HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47096.ts
+#EXTINF: -1 tvg-id=''DEPORTES | DIRECTV SPORTS 2'' tvg-logo=''DSports_2_2022.png'' group-title=''Deportes'',DEPORTES | DIRECTV SPORTS 2
+http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
+#EXTINF: -1 tvg-id=''DEPORTES | DIRECTV SPORTS 2 HD'' tvg-logo=''DSports_2_2022.png'' group-title=''Deportes'',DEPORTES | DIRECTV SPORTS 2 HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47095.ts
+#EXTINF: -1 tvg-id=''DEPORTES | DIRECTV SPORTS + HD'' tvg-logo=''DSportsMás.png'' group-title=''Deportes'',DEPORTES | DIRECTV SPORTS + HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47093.ts
