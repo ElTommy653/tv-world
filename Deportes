@@ -155,24 +155,36 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/15937.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/15903.ts
 #EXTINF: -1 tvg-id=''US | Sports Net World'' tvg-logo=''StartTV_ChannelLogos_SportsnetWorld.png'' group-title=''Deportes'',US | Sports Net World
 http://kstv.us:8080/live/N427DpynGE/7049166651/15936.ts
+#EXTINF: -1 tvg-id=''US | BALLY SPORTS CINCINNATI'' tvg-logo=''Bally_Sports_Ohio.svg.png'' group-title=''Deportes'',US | BALLY SPORTS CINCINNATI
+http://kstv.us:8080/live/N427DpynGE/7049166651/47472.ts
 #EXTINF: -1 tvg-id=''US | BALLY SPORTS DETROIT'' tvg-logo=''Bally_Sports_Detroit_logo.svg.png'' group-title=''Deportes'',US | BALLY SPORTS DETROIT
 http://kstv.us:8080/live/N427DpynGE/7049166651/31589.ts
+#EXTINF: -1 tvg-id=''US | BALLY SPORTS FLORIDA'' tvg-logo=''Bally_Sports_Florida_logo.svg'' group-title=''Deportes'',US | BALLY SPORTS FLORIDA
+http://kstv.us:8080/live/N427DpynGE/7049166651/47468.ts
 #EXTINF: -1 tvg-id=''US | BALLY SPORTS Grate Lakes'' tvg-logo=''Bally_Sports_Great_Lakes_logo.svg.png'' group-title=''Deportes'',US | BALLY SPORTS Great Lakes
 http://kstv.us:8080/live/N427DpynGE/7049166651/31586.ts
 #EXTINF: -1 tvg-id=''US | BALLY SPORTS MIDWEST (Missouri)'' tvg-logo=''Bally_Sports_Midwest.png'' group-title=''Deportes'',US | BALLY SPORTS MIDWEST (Missouri)
 http://kstv.us:8080/live/N427DpynGE/7049166651/31588.ts
 #EXTINF: -1 tvg-id=''US | BALLY SPORTS NORTH'' tvg-logo=''Bally_Sports_North.png'' group-title=''Deportes'',US | BALLY SPORTS NORTH
 http://kstv.us:8080/live/N427DpynGE/7049166651/31587.ts
+#EXTINF: -1 tvg-id=''US | BALLY SPORTS Ohio'' tvg-logo=''Bally_Sports_Ohio.svg.png'' group-title=''Deportes'',US | BALLY SPORTS Ohio
+http://kstv.us:8080/live/N427DpynGE/7049166651/47720.ts
+#EXTINF: -1 tvg-id=''US | BALLY SPORTS OKLAHOMA'' tvg-logo=''Bally_Sports_Oklahoma.png'' group-title=''Deportes'',US | BALLY SPORTS OKLAHOMA
+http://kstv.us:8080/live/N427DpynGE/7049166651/47469.ts
 #EXTINF: -1 tvg-id=''US | BALLY SPORTS PRIME TICKET'' tvg-logo=''Bally_Sports_logo.png'' group-title=''Deportes'',US | BALLY SPORTS PRIME TICKET
 http://kstv.us:8080/live/N427DpynGE/7049166651/31585.ts
 #EXTINF: -1 tvg-id=''US | BALLY SPORTS SAN DIEGO'' tvg-logo=''Bally_Sports_San_Diego.png'' group-title=''Deportes'',US | BALLY SPORTS SAN DIEGO
 http://kstv.us:8080/live/N427DpynGE/7049166651/31584.ts
 #EXTINF: -1 tvg-id=''US | BALLY SPORTS SOUTH'' tvg-logo=''Bally_Sports_South.png'' group-title=''Deportes'',USA | BALLY SPORTS SOUTH
 http://kstv.us:8080/live/N427DpynGE/7049166651/31583.ts
-#EXTINF: -1 tvg-id=''US | BALLY SPORTS SOUHTHEAST'' tvg-logo=''Bally_Sports_Southeast.png'' group-title=''Deportes'',USA | BALLY SPORTS SOUTHEAST
+#EXTINF: -1 tvg-id=''US | BALLY SPORTS SOUHTHEAST'' tvg-logo=''Bally_Sports_Southeast.png'' group-title=''Deportes'',US | BALLY SPORTS SOUTHEAST
 http://kstv.us:8080/live/N427DpynGE/7049166651/31582.ts
-#EXTINF: -1 tvg-id=''US | BALLY SPORST SOUTHWEST'' tvg-logo=''Bally_Sports_Southwest.png'' group-title=''Deportes'',USA | BALLY SPORTS SOUTHWEST
+#EXTINF: -1 tvg-id=''US | BALLY SPORTS SOUTHWEST'' tvg-logo=''Bally_Sports_Southwest.png'' group-title=''Deportes'',US | BALLY SPORTS SOUTHWEST
 http://kstv.us:8080/live/N427DpynGE/7049166651/31581.ts
+#EXTINF: -1 tvg-id=''US | BALLY SPORTS SUN'' tvg-logo=''Bally_Sports_Sports_Sun.svg'' group-title=''Deportes'',US | BALLY SPORTS SUN
+http://kstv.us:8080/live/N427DpynGE/7049166651/47470.ts
+#EXTINF: -1 tvg-id=''US | BALLY SPORTS WEST'' tvg-logo=''6a62c71635010807.png'' group-title=''Deportes'',US | BALLY SPORTS WEST
+http://kstv.us:8080/live/N427DpynGE/7049166651/47471.ts
 #EXTINF: -1 tvg-id=''CA - SPORTSMAN CHANNEL CANADA'' tgv-logo=''jppdyedc5qbjoziwvppo.jpg'' group-title=''Deportes'',CA - SPORTSMAN CHANNEL CANADA
 http://kstv.us:8080/live/N427DpynGE/7049166651/40575.ts
 #EXTINF: -1 tvg-id=''CA - SPORTSNET 360'' tvg-logo=''Sportsnet_360-Logo.wine-png'' group-title=''Deportes'',CA - SPORTSNET 360
