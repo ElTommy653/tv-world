@@ -87,46 +87,46 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/15948.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/22525.ts
 #EXTINF: -1 tvg-id=''US | Fox Sports 2 HD'' tvg-logo=''FS2_logo_2015.svg.png'' group-title=''Deportes'',US | Fox Sports 2 HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/15947.ts
-#EXTINF: -1 tvg-id=''BRASIL | FOX SPORTS HD'' tvg-logo=''FOX_Sports_logo.svg.png'' group-title=''Deportes'',BRASIL | FOX SPORTS HD
+#EXTINF: -1 tvg-id=''FoxSports.br'' tvg-logo=''FOX_Sports_logo.svg.png'' group-title=''Deportes'',BRASIL | FOX SPORTS HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/46453.ts
-#EXTINF: -1 tvg-id=''BRASIL | FOX SPORTS 2 HD'' tvg-logo=''Fox_sports_2_logo.svg.png'' group-title=''Deportes'',BRASIL | FOX SPORTS 2 HD
+#EXTINF: -1 tvg-id=''FoxSports2.br'' tvg-logo=''Fox_sports_2_logo.svg.png'' group-title=''Deportes'',BRASIL | FOX SPORTS 2 HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/46454.ts
-#EXTINF: -1 tvg-id=''LAT-A | FOX SPORTS PREMIUM (ARGENTINA)'' tvg-logo=''Fox_Sports_Premium_(Argentina)_-_2018_logo.png'' group-title=''Deportes'',LAT-A | FOX SPORTS PREMIUM (ARGENTINA)
+#EXTINF: -1 tvg-id=''FoxSportsPremium.ar'' tvg-logo=''Fox_Sports_Premium_(Argentina)_-_2018_logo.png'' group-title=''Deportes'',LAT-A | FOX SPORTS PREMIUM (ARGENTINA)
 http://kstv.us:8080/live/N427DpynGE/7049166651/46727.ts
-#EXTINF: -1 tvg-id=''LAT-A | FOX SPORTS PREMIUM HD (ARGENTINA)'' tvg-logo=''Fox_Sports_Premium_(Argentina)_-_2018_logo.png'' group-tile=''Deportes'',LAT-A | FOX SPORTS PREMIUM HD (ARGENTINA)
+#EXTINF: -1 tvg-id=''FoxSportsPremium.ar'' tvg-logo=''Fox_Sports_Premium_(Argentina)_-_2018_logo.png'' group-tile=''Deportes'',LAT-A | FOX SPORTS PREMIUM HD (ARGENTINA)
 http://kstv.us:8080/live/N427DpynGE/7049166651/46728.ts
-#EXTINF: -1 tvg-id=''DEPORTES | Fox Sports Chile HD'' tvg-logo=''FOX_Sports_logo.svg.png'' group-title=''Deportes'',DEPORTES | Fox Sports Chile HD
+#EXTINF: -1 tvg-id=''FoxSports.cl'' tvg-logo=''FOX_Sports_logo.svg.png'' group-title=''Deportes'',DEPORTES | Fox Sports Chile HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47126.ts
-#EXTINF: -1 tvg-id=''DEPORTES | Fox Sports 1 Premium Chile'' tvg-logo=''5ba0e632c3e89_838x390.jpg'' group-title=''Deportes'',DEPORTES | Fox Sports 1 Premium Chile
+#EXTINF: -1 tvg-id=''FoxSports1Premium.cl'' tvg-logo=''5ba0e632c3e89_838x390.jpg'' group-title=''Deportes'',DEPORTES | Fox Sports 1 Premium Chile
 http://kstv.us:8080/live/N427DpynGE/7049166651/47117.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS MEXICO'' tvg-logo=''FOX_Sports_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS MEXICO
+#EXTINF: -1 tvg-id=''FoxSports.mx'' tvg-logo=''FOX_Sports_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS MEXICO
 http://kstv.us:8080/live/N427DpynGE/7049166651/47127.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS MEXICO HD'' tvg-logo=''FOX_Sports_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS MEXICO HD
+#EXTINF: -1 tvg-id=''FoxSports.mx'' tvg-logo=''FOX_Sports_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS MEXICO HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47128.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS 2 MEXICO'' tvg-logo=''Fox_sports_2_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 2 MEXICO
+#EXTINF: -1 tvg-id=''FoxSports2.mx'' tvg-logo=''Fox_sports_2_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 2 MEXICO
 http://kstv.us:8080/live/N427DpynGE/7049166651/47118.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS 2 MEXICO HD'' tvg-logo=''Fox_sports_2_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 2 MEXICO HD
+#EXTINF: -1 tvg-id=''FoxSports2.mx'' tvg-logo=''Fox_sports_2_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 2 MEXICO HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47119.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS 3 MEXICO'' tvg-logo=''Fox_sports_3_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 3 MEXICO
+#EXTINF: -1 tvg-id=''FoxSports3.mx'' tvg-logo=''Fox_sports_3_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 3 MEXICO
 http://kstv.us:8080/live/N427DpynGE/7049166651/47122.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS 3 MEXICO HD'' tvg-logo=''Fox_sports_3_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 3 MEXICO HD
+#EXTINF: -1 tvg-id=''FoxSports3.mx'' tvg-logo=''Fox_sports_3_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 3 MEXICO HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47123.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS PREMIUM HD''  tv-logo=''5ba0e632c3e89_838x390.jpg'' group-title=''Deportes'',DEPORTES | FOX SPORTS PREMIUM
+#EXTINF: -1 tvg-id=''FoxSports3.ar''  tv-logo=''5ba0e632c3e89_838x390.jpg'' group-title=''Deportes'',DEPORTES | FOX SPORTS PREMIUM
 http://kstv.us:8080/live/N427DpynGE/7049166651/47129.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS SUR'' tvg-logo=''FOX_Sports_logo.svg.png'' group_title=''Deportes'', DEPORTES | FOX SPORTS SUR
+#EXTINF: -1 tvg-id=''FoxSports.ar'' tvg-logo=''FOX_Sports_logo.svg.png'' group_title=''Deportes'', DEPORTES | FOX SPORTS SUR
 http://kstv.us:8080/live/N427DpynGE/7049166651/47130.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS SUR HD'' tv-logo=''FOX_Sports_logo.svg.png'' group_title=''Deportes'',DEPORTES | FOX SPORTS SUR HD
+#EXTINF: -1 tvg-id=''FoxSports.ar'' tv-logo=''FOX_Sports_logo.svg.png'' group_title=''Deportes'',DEPORTES | FOX SPORTS SUR HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47131.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS 2 SUR'' tvg-logo=''Fox_sports_2_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 2 SUR
+#EXTINF: -1 tvg-id=''FoxSports2.ar'' tvg-logo=''Fox_sports_2_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 2 SUR
 http://kstv.us:8080/live/N427DpynGE/7049166651/47120.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS 2 SUR HD'' tvg-logo=''Fox_sports_2_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 2 SUR HD
+#EXTINF: -1 tvg-id=''FoxSports2.ar'' tvg-logo=''Fox_sports_2_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 2 SUR HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47121.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS 3 SUR'' tvg-logo=''Fox_sports_3_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 3 SUR
+#EXTINF: -1 tvg-id=''FoxSports3.ar'' tvg-logo=''Fox_sports_3_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 3 SUR
 http://kstv.us:8080/live/N427DpynGE/7049166651/47124.ts
-#EXTINF: -1 tvg-id=''DEPORTES | FOX SPORTS 3 SUR HD'' tvg-logo=''Fox_sports_3_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 3 SUR HD
+#EXTINF: -1 tvg-id=''FoxSports3.ar'' tvg-logo=''Fox_sports_3_logo.svg.png'' group-title=''Deportes'',DEPORTES | FOX SPORTS 3 SUR HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47125.ts
-#EXTINF: -1 tvg-id=''Showsport (Argentina)'' tvg-logo=''canalshowsport_logo.png'' group-title=''Deportes'',Showsport (Argentina)
-https://sae13.playlist.ttvnw.net/v1/playlist/CuYGVjws8FQX0darjNpsKU_YmweTkSqWejaABmAF8eqVsx-CyHi25L81st5Nn8ZjbPCIVyWRPbubA_X6jxtLS8iCvn8eyznK-iXGFpyiUZCQOFp2QkFWCMULr3Pp3hGQPtJLeOEq0tTSliS-6imgSXFfAvLxODLMgNKcwSWjCZhr2ZzRDwzUyUyiL0J3V0yLJHYV5wllMVDJ_DqcMPtmywKRPMsnVQkbHgq81Qofkt1-Zures1ayq7Lvmq5PDyknVxwW9opVhZy6gzm6b6MFF7jEsiOjBdk3nRYc103fELSOzsrS5D7WiNAgjmj-qoohPZ0RcbTInWukxjVGJ-iDXuuyYytGnG-u5UzWpMzm_b1qGAa6e_Qz4Z5jEW5CfW8Jw58QN3Ij1-4U6bD3ajcNTmMzFOMyVgJbwIPI_x_ZzEICRovShgi1tyAVz4VT4lnBheR2Z5IpLF-_A9ayPpCw73-rIfKdQ0VIilHz5TPaw8eq0apvjClsIpBWQYTnLM0clBP_QtiZCAWh8_IS2YTYOHSjpRRltMXcuhk6GQc3-aQ7RENIBY6ZH8jqdXmWJTPcXWG8JVQbKCCmEDFKE6WeR2WAUmfabRqY7zHXwb8AdzhKdRqOuxC5UJryGEjreKI___KP5dm3EQi-dxmrgpxsb6KBD3m7NYUN4obaJ9zGsdyy6kW_uefi4Wbfg-NjuUeWhOIVAvWPOKENZUE5DLLfPG2iIy5gwkP3k4XflRdcle709oyfUvD8eOm5XnKVTNygjmr059iM24bf9vaZviWs8bYZkWyroFQgj6Zjt0gCpcsdO1GEPgbodd4KJksqFXSVduNwnsg6tC6il5Im5z7XpvwO1tvbiE4O4W5pX-I9cWIJ5TAcEdq8nnnwY127rVoN_PhCoDeqUJQSweTrlv43MjQAlHwmZy4njYD9sKGEK-azTKnmZtPr_uSBmQPNdTM7nj0zodN1i2TWUEv9N74CMdrYebCBrSOFHQJMuT8xDjPBJXTNXdst-yVEZpmbhbAJGPYIpeAxz49Luvi0WAJ-F48D7WN62X35deassEJZd9WJiNq96EogxlsWfCbIxWCxnVGIKD_kGivMeTnUYt_wvaQHfRPBxDNEmPGG6wkMsIGn2lYmwMxzSVLHteQcMXgZ7sIb2TGXTqWuGgwjC3SAet70aJAMBpggASoJdXMtZWFzdC0yMMIM.m3u8
+#EXTINF: -1 tvg-id=''Showsport.ar'' tvg-logo=''canalshowsport_logo.png'' group-title=''Deportes'',Showsport (Argentina)
+https://sae11.playlist.ttvnw.net/v1/playlist/CugGBTOI9lLWm0Q8w78CTVUjPEUEXe5V_ftpr4H1WPwucCf3XvLkVw2VRvg5vqnuvV8Y-v29tYX5tq1Smu2kXuQD_y6JTRlHRJ7X2eo_DVUpFnTvlWAUNE1AjPjvYiJEMEFCyU7FPOPsH4IU5UEde3rz64qkv3m2IhZijdYPs_iLjsH_oTcUkvcXFniJhoqMJVzB3BCSeagTpTs_ibGFU2kSjh5nrkiYGTNG-he23MpEOFBHzLSwZWEZHTDOarML6HJalmLNLIYQp0S0dBzTd_USsumDz80TEVp2pt5RK530NQqfTFRf8xTphOl5Al7w3CvV_pI7OjpFqW44iKgNf0ahEBK9nZYvV4lEC_Tby7xB-ZFY9m1vv2fSYm81-k66txqUsXCKxOz67cSRg2aJHVLfQ0wQIOSECsDHWzLSbYD-EhJqLYR2H0b3GJ07RvY-CWIxZ93fL0lGGw-Dr-9EyvEmmIiLb0AZUZfLZ7wORIf0P5XbBJGmREh9av_IEkWURhh-MQmnQpu4K-MNXyNlUeANKxBmGXboMK2l7oQ42y4xi-09DuccZrjremkzOufr0yNR90R3JFrwKL0s6TEMpbTI9nj_uJ6gUSLabZ-LrUqZwkyQQ03YIE4LzcbgyQANHY_mLxoV0dacE1JGdSAR7A3yVkDzeU1hIsN2k0GNsqYjymIANxFGUVV28sIuAWPpq7jdRKXexYfbdvpGymVbukrP84DElqvRy7P1KEiRTtnK5m_NOFDkQ81sUW2Hk8RS_0z_uQOuCYfIYUexGfqzd1Dh7vwYVuLfIkOgjWz2i6GekHLGORi8atQUIPns7K8dnvV1Ku2G5ZvClMlZjdPoa_nFFElop_JbviHMg0VVom2WKwN2MjJghzCMFLeImxHKgIKxWfD5sEg_7dW12HOxxcHu1IZsRkVgZaPMKPrIPN9k7SFzfvjljHyHxuEEDNzNFG6lu4C1p9ZPqBL1XvggVDfrPeNyGBy2747UZU9xQRzs2ZuZ1AITWjRuostVwiKmB7fR7J2Umcu4rp9nHnBu_vdAoDsRZ99mnh1FnIeus4XPfDVzYvpkmokhMZ_pq2ZAo3xZBHYsE1PJEitvFfxdszBRG5fJ9lC0omC1Yvj-y4G_QfJWBTJ80o3muVUCYrOf6yQANC6Y0ZDwdIgaDLmJSBbZAO5hxcZHXCABKgl1cy1lYXN0LTIwyQw.m3u8
 #EXTINF: -1 tvg-id=''US | ELEVEN SPORTS HD'' tvg-logo=''Eleven_Sports.png'' group-title=''Deportes'',US | ELEVEN SPORTS HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/23327.ts
 #EXTINF: -1 tvg-id=''US | CBS Sports Network HD'' tvg-logo=''CBS Sports Network.png'' group-title=''Deportes'',US | CBS Sports Network HD
