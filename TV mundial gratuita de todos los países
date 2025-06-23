@@ -43,9 +43,9 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/15958.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/12739.ts
 #EXTINF: -1 tvg-id=''US | Bravo''
 http://kstv.us:8080/live/N427DpynGE/7049166651/22562.ts
-#EXTINF: -1 tvg-id=''US | CBS''
+#EXTINF: -1 tvg-id=''CBS.us'' tvg-logo=''cbs-logo.png'' group-title=''USA'',US | CBS
 http://kstv.us:8080/live/N427DpynGE/7049166651/22560.ts
-#EXTINF: -1 tvg-id=''US | CBS HD''
+#EXTINF: -1 tvg-id=''CBS.us'' tvg-logo=''cbs-logo.png'' group-title=''USA'',US | CBS HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/15935.ts
 #EXTINF: -1 tvg-id=''US | CINEMAX ACTION MAX EAST''
 http://kstv.us:8080/live/N427DpynGE/7049166651/23346.ts
@@ -702,18 +702,66 @@ https://51a1.crackstreamslivehd.com/global/ecdf/index.m3u8?token=985be94d28af632
 ==================================================================''Infantiles''=======================================================================
 
 #EXTINF: -1 tvg-id=''Boomerang.us'' tvg-logo=''Boomerang_2014_logo.svg.png'' group-title=''Infantiles'',Boomerang
-http://kstv.us:8080/live/5xr5CdHFDr/1028523/22563.ts
+https://v8.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=5SX14qh5f1Bk_ncvKjydJw&expires=1750725136&user_id=d09Rc2U4b2Rib0RHbjM2WWdLZHJZR3Z0SzNXRkhYQTdlalFRUmVXSQ==
 #EXTINF: -1 tvg-id=''CartoonNetwork.us'' tvg-logo=''CARTOON_NETWORK_logo.png'' group-title=''Infantiles'',Cartoon Network
-http://kstv.us:8080/live/5xr5CdHFDr/1028523/15959.ts
+https://v17.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=hSKqJe0V-syl3hnh-AekNA&expires=1750726515&user_id=d09Rc2U4b2Rib0RHbjM2WWdLZHJZR3Z0SzNXRkhYQTdlalFRUmVXSQ==
 #EXTINF: -1 tvg-id=''DisneyChannel.us'' tvg-logo=''DISNEYCHANNEL-2025.png'' group-title=''Infantiles'',Disney Channel
-http://kstv.us:8080/live/5xr5CdHFDr/1028523/23332.ts
+https://v18.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8?token=YNf8JTxXwdoE0PA6A6bK8A&expires=1750726581&user_id=d09Rc2U4b2Rib0RHbjM2WWdLZHJZR3Z0SzNXRkhYQTdlalFRUmVXSQ==
 #EXTINF: -1 tvg-id=''DisneyJunior.us'' tvg-logo=''DisneyJr3Dver.png'' group-title=''Infantiles'',Disney Jr.
-http://kstv.us:8080/live/5xr5CdHFDr/1028523/47621.ts
+https://v18.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8?token=B8KyrtofSUov31WNxm8A2g&expires=1750726618&user_id=d09Rc2U4b2Rib0RHbjM2WWdLZHJZR3Z0SzNXRkhYQTdlalFRUmVXSQ==
 #EXTINF: -1 tvg-id=''DisneyXD.us'' tvg-logo=''2015_Disney_XD_logo.svg.png'' group-title=''Infantiles'',Disney XD
-http://kstv.us:8080/live/5xr5CdHFDr/1028523/23330.ts
+https://v15.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=ZmdPpX3O8BGKCAasyH1eLA&expires=1750726661&user_id=d09Rc2U4b2Rib0RHbjM2WWdLZHJZR3Z0SzNXRkhYQTdlalFRUmVXSQ==
 #EXTINF: -1 tvg-id=''Nickelodeon.us'' tvg-logo=''Nickelodeon_2023_Logo_7f4cabc6-682b-49bd-b03b-b89da0e53587.png'' group-title=''Infantiles'',Nickelodeon
-http://kstv.us:8080/live/5xr5CdHFDr/1028523/23277.ts
+https://v12.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=0-dY1eef8VVqTg8gPScBeg&expires=1750726738&user_id=d09Rc2U4b2Rib0RHbjM2WWdLZHJZR3Z0SzNXRkhYQTdlalFRUmVXSQ==
 #EXTINF: -1 tvg-id=''NickJr.us'' tvg-logo=''nick_jr_new_splat_2023_logo_by_markpipi_dg1vjg9-pre(1).png'' group-title=''Infantiles'',Nick Jr.
-http://kstv.us:8080/live/5xr5CdHFDr/1028523/23276.ts
+https://v4.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8?token=MLNft1dzZd3EHc8vTkwRAA&expires=1750726780&user_id=d09Rc2U4b2Rib0RHbjM2WWdLZHJZR3Z0SzNXRkhYQTdlalFRUmVXSQ==
 #EXTINF: -1 tvg-id=''Nicktoons.us'' tvg-logo=''nicktoons_logo__2024_presents__perfect_by_yihen07_dhsmmbl-fullview.png'' group-title=''Infantiles'',Nicktoons
+https://v16.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8?token=mpFisz26v91oEOytRavgGA&expires=1750726814&user_id=d09Rc2U4b2Rib0RHbjM2WWdLZHJZR3Z0SzNXRkhYQTdlalFRUmVXSQ==
+#EXTINF: -1 tvg-id=''KSFYDT6.us'' tvg-logo=''MeTV_Toons.png'' group-title=''Infantiles'',MeTV Toons
+https://v2.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8?token=jrab0XnyiK-sCeybCUGfhQ&expires=1750726918&user_id=d09Rc2U4b2Rib0RHbjM2WWdLZHJZR3Z0SzNXRkhYQTdlalFRUmVXSQ==
+#EXTINF: -1 tvg-id=''Boomerang.us'' tvg-logo=''Boomerang_2014_logo.svg.png'' group-title=''Infantiles'',US | BOOMERANG US
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/23354.ts
+#EXTINF: -1 tvg-id=''Boomerang.us'' tvg-logo=''Boomerang_2014_logo.svg.png'' group-title=''Infantiles'',US | Boomerang
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/22563.ts
+#EXTINF: -1 tvg-id=''CartoonNetwork.us'' tvg-logo=''CARTOON_NETWORK_logo.png'' group-title=''Infantiles'',US | Cartoon Network USA
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/22561.ts
+#EXTINF: -1 tvg-id=''CartoonNetwork.us'' tvg-logo=''CARTOON_NETWORK_logo.png'' group-title=''Infantiles'',US | Cartoon Network
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/15959.ts
+#EXTINF: -1 tvg-id=''DisneyChannel.us'' tvg-logo=''DISNEYCHANNEL-2025.png'' group-title=''Infantiles'',US | DISNEY CHANNEL HD
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/23332.ts
+#EXTINF: -1 tvg-id=''DisneyJunior.us'' tvg-logo=''DisneyJr3DVer.png'' group-title=''Infantiles'',US | Disney Jr
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/47621.ts
+#EXTINF: -1 tvg-id=''DisneyXD.us'' tvg-logo=''2015_Disney_XD_logo.svg.png'' group-title=''Infantiles'',US | DISNEY XD
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/23330.ts
+#EXTINF: -1 tvg-id=''Nickelodeon.us'' tvg-logo=''Nickelodeon_2023_Logo_7f4cabc6-682b-49bd-b03b-b89da0e53587.png'' group-title=''Infantiles'',US | NICK HD
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/23277.ts
+#EXTINF: -1 tvg-id=''Nickelodeon.us'' tvg-logo=''Nickelodeon_2023_Logo_7f4cabc6-682b-49bd-b03b-b89da0e53587.png'' group-title=''Infantiles'',US | Nickelodeon USA
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/22486.ts
+#EXTINF: -1 tvg-id=''Nickelodeon.us'' tvg-logo=''Nickelodeon_2023_Logo_7f4cabc6-682b-49bd-b03b-b89da0e53587.png'' group-title=''Infantiles'',US | Nickelodeon
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/15963.ts
+#EXTINF: -1 tvg-id=''NickJr.us'' tvg-logo=''nick_jr_new_splat_2023_logo_by_markpipi_dg1vjg9-pre(1).png'' group-title=''Infantiles'',US | NICK JR
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/23276.ts
+#EXTINF: -1 tvg-id=''NickJr.Too.us'' tvg-logo=''Nick_Jr._Too_splat_logo.png'' group-title=''Infantiles'',US | NICK JR. TOO
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/23275.ts
+#EXTINF: -1 tvg-id=''Nicktoons.us'' tvg-logo=''nicktoons_logo__2024_presents__perfect_by_yihen07_dhsmmbl-fullview.png'' group-title=''Infantiles'',US | NICKTOONS
 http://kstv.us:8080/live/5xr5CdHFDr/1028523/23274.ts
+#EXTINF: -1 tvg-id=''KSFYDT6.us'' tvg-logo=''MeTV_Toons.png'' group-title=''Infantiles'',US | MeTV Toons
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/48753.ts
+#EXTINF: -1 tvg-id=''CartoonNetwork.ca'' tvg-logo=''CARTOON_NETWORK_logo.png'' group-title=''Infantiles'',CA - CARTOON NETWORK
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40763.ts
+#EXTINF: -1 tvg-id=''DisneyChannel.ca'' tvg-logo=''DISNEYCHANNEL-2025.png'' group-title=''Infantiles'',CA - DISNEY
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40725.ts
+#EXTINF: -1 tvg-id=''DisneyChannel.ca'' tvg-logo=''DISNEYCHANNEL-2025.png'' group-title=''Infantiles'',CA - DISNEY FRENCH
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40724.ts
+#EXTINF: -1 tvg-id=''DisneyJr.ca'' tvg-logo=''DisneyJr3DVer.png'' group-title=''Infantiles'',CA - DISNEY JR
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40723.ts
+#EXTINF: -1 tvg-id=''FamilyChannel.ca'' tvg-logo=''family-channel-logo.png'' group-title=''Infantiles'',CA - FAMILY Channel
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40714.ts
+#EXTINF: -1 tvg-id=''FamilyJr.ca'' tvg-logo=''Family_Jr._logo.svg.png'' group-title=''Infantiles'',CA - FAMILY JR
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40713.ts
+#EXTINF: -1 tvg-id=''TreehouseTV.ca'' tvg-logo=''Treehouse_TV_logo.svg.png'' group-title=''Infantiles'',CA - TREEHOUSE
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40652.ts
+#EXTINF: -1 tvg-id=''YTV.ca'' tvg-logo=''Ytv_logo.png'' group-title=''Infantiles'',CA - YTV E
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40663.ts
+#EXTINF: -1 tvg-id=''YTV.ca'' tvg-logo=''Ytv_logo.png'' group-title=''Infantiles'',CA - YTV West
+http://kstv.us:8080/live/5xr5CdHFDr/1028523/40662.ts
