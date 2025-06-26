@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF: -1 tvg-id=''5tv.ar'' tvg-logo=''logo-transparente.png'' group-title=''Regionales'',5TV (Corrientes)
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/chunklist_w151848156.m3u8
+#EXTINF: -1 tvg-id=''13MaxTelevisión.ar'' tvg-logo=''Logo_de_Canal_13Max_Corrientes.png'' group-title=''Regionales'',13 Max Televisión
+https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo_720p/chunklist_w537813922.m3u8
+#EXTINF: -1 tvg-id=''CN24/7.ar'' tvg-logo=''logo-24-7-head.png'' group-title=''Noticias'',24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/Source.m3u8
+#EXTINF: -1 tvg-id=''A24.ar'' tvg-logo=''A24-Logo-New.png'' group-title=''Noticias'',A24
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/f7facdfb-12cf-45c1-a861-0d37271392d6:SCL/variant/6b1070c250b195ca95348758adb0fd8e/bandwidth/500000.m3u8
+#EXTINF: -1 tvg-id=''AiredeSantaFe.ar'' tvg-logo=''70ea0606-45c6-4b67-95e2-8dce1ba727c8.png'' group-title=''Regionales'',Aire de Santa Fe
+https://unlimited1-saopaulo.dps.live/airedesantafetv/airedesantafetv.smil/airedesantafetv/livestream1/chunks.m3u8?nimblesessionid=75355570
+#EXTINF: -1 tvg-id=''AmericaTV.ar'' tvg-logo=''América_TV_(Nuevo_logo_Junio_2020).png'' group-title=''Generalista'',América TV (Argentina)
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/cd5a5b5d-c240-4290-9d58-c2d2fd17d663:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
+#EXTINF: -1 tvg-id=''AmericaTucuman.ar'' tvg-logo=''América_Tucumán_Canal_28.1_(2019-1).png'' group-title=''Regionales'',América Tucumán
+https://youtu.be/yKq-GlY4Y7k
+#EXTINF: -1 tvg-id=''ArgentinisimaSatelital.ar'' tvg-logo=''Arg-Sat.png'' group-title=''Variedades'',Argentinísima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF: -1 tvg-id=''AZM.ar'' tvg-logo=''Logo_azm_tv.webp.png'' group-title=''Regionales'',AZM TV (Canal 9 de La Patagonia)
+https://sae13.playlist.ttvnw.net/v1/playlist/CrQGNHifebbf-oIoFq__9FgWCyopQv2goSKB5x1wW_wD_6MI4kuAvrgQoZIZbGrQkJFLij45omrDHG50_NAnHF86JtdNGn3llDZ8W3SGawlqzSye3Z-vRkS_nH1Lw19aeqXc9nXixfUnHDm8QNTrvjUGip0XphaMM5uqMFNyg-6L_cQIPmv953lbABFADrbg-jx3DJnEc1wSZeOQH9IkGeUmSTMBCOzYnilvh07mURUdA5kncipCAxlvsEt8_CD5m-JkipcfAi09uWW88YmyNng2E5Zi2YbYQj3x6e2dygipp4Ku_XgGX34O9FwpUCFC6dLAWcCmhn7Pf4xgMmIDJGJWVolqKpQ2EdGzle4RKab5N6ZclYNb3qM_WnDGCOkEX_AMUoarfUIpiSjY0qYwPafNPxPTUoWVZBDJ-8WER1Y4uAy9ZeTO3omZB27rpWJ4-rbH35wNtWQvqHjGZEm4_0L1Ki94K3bcj2S6sfiD0qbhK91c0OwaQEq2iT9PSutWuFGAAWsCNSGJHQMh44TeV_g2lkWTNgfRDmgA2VVvtt34fkttiiHP3MI5ymEP6vZQYL-hOrS5DAM7cQh2GHzRn852sE_qxt7SnmW-QYNkW0b-Gv3t3pcQgF3NKHHmRlT0_wAVzIBb_O60x7J2e8zTbQo2NYVowqW-zR87rQEmpHXXNHJ_ocsHnYC4bIAszWcxgA_PxtnWbrU6OTORXS7pQjLTZjIgPFQ5hTAzPBp9AFVTFMOiItDsTBIaF9qUUggL3CgwvOqr7yg_jmcgW7fRZwTH2N1veQag37NR8iXSuPddH5wSd8B_gD43pEhwjPdkKZBiJdH1WoxWbLtXlgEzV3lKFNxwZQSpgyzIesbvx0Ejhg4DuytdkmxGZImCZ_T-VVPZCqtZVeH59L9rY6fONukYFFO8HOZNkLNyUVBC2tbmLsQ8S9ANyZce64Zp4TEv35j8aamvEmnbSjjfGzrEbZFSr24ck8SchIUFOhXCxQNwd1P8astzuYtAb-Qdcx5O1uG_1A8BeS-gkDk7nu_O-87owDs2-6Xoa5oZOIWS_h1bb2CrZwwrPBPjPp90IAVo18rsqw23HhoMwWhcH9qpO9HGXLMbIAEqCXVzLWVhc3QtMjDMDA.m3u8
+#EXTINF: -1 tvg-id=''BarricadaTV.ar'' tvg-logo=''Logo-negro-y-verde.png'' group-title=''Populares'',Barricada TV
+https://live-ak.vimeocdn.com/exp=1750957271~acl=%2F2489cde7-3bb3-47b1-9220-90ad3f73455d%2F%2A~hmac=5f0f829f36429ce8e0f554496a71f09655a6f54dc33bab6a6fcbad783d8a9b06/2489cde7-3bb3-47b1-9220-90ad3f73455d/chunklist_b416000.m3u8?max_segments=10&_HLS_skip=YES
+#EXTINF: -1 tvg-id=''BayresTV.ar'' tvg-logo=''bayres-tv-removebg-preview.png'' group-title=''Regionales'',Bayres TV 41
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF: -1 tvg-id=''BeatsRadio.ar'' tvg-logo=''logo.png'' group-title=''Radio'',Beats Radio 100.5 FM
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF: -1 tvg-id=''Blu.ar'' tvg-logo=''blu.png'' group-title=''Regionales'',Blu
+https://videostream.shockmedia.com.ar:19360/blumedios/blumedios.m3u8
+#EXTINF: -1 tvg-id=''BragadoTV.ar'' tvg-logo=''logo-social.jpg'' group-title=''Regionales'',Bragado TV
+https://inliveserver.com:1936/12000/12000/chunklist_w1249646025.m3u8
+#EXTINF: -1 tvg-id=''BravoTV.ar'' tvg-logo=''Bravotv.png'' group-title=''Generalista'',Bravo TV
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream3/chunks.m3u8?dpssid=b2732504725685d688f43579&sid=ba5t1l1xb21111895720685d69d9650af&ndvc=0
+#EXTINF: -1 tvg-id=''BVC.ar'' tvg-logo=''6697397.jpg'' group-title=''Regionales'',BVC (Bahía Visión Color)
+https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD-video=500000.m3u8?dvr_window_length=60
+#EXTINF: -1 tvg-id=''C5N.ar'' tvg-logo=''images.png'' group-title=''Noticias'',C5N
+https://youtu.be/jTDk5CswBVk
+#EXTINF: -1 tvg-id=''Canal5SantaFe.ar'' tvg-logo=''CANAL-5.webp'' group-title=''Regionales'',C5SF
+https://stream.arcast.com.ar/c5sf/c5sf/chunklist_w351974816.m3u8
+#EXTINF: -1 tvg-id=''CableImagenArmstrong.ar'' tvg-logo=''cia-logox1.png'' group-title=''Regionales'',Cable Imagen Armstrong
+https://stream.arcast.com.ar/casse/casse/chunklist_w1306047133.m3u8
+#EXTINF: -1 tvg-id=''Cadena103TV.ar'' tvg-logo=''Logo_2015.png'' group-title=''Radio'',Cadena 103 TV
+https://streamlov.alsolnet.com/cadena103/live/chunklist_w115849605.m3u8
+#EXTINF: -1 tvg-id=''CalchaquiTV.ar'' tvg-logo=''5XkvytM.png'' group-title=''Regionales'',Calchaquí TV
+https://video.streamtvradio.com:8443/uv068/uv068/chunks.m3u8
+#EXTINF: -1 tvg-id=''Canal2MardelPlata.ar'' tvg-logo=''Canal2-mdp04.webp'' group-title=''Regionales'', Canal 2 (Mar del Plata)
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+#EXTINF: -1 tvg-id=''Canal2Misiones.ar'' tvg-logo=''Canal_2_Posadas_2022.webp'' group-title=''Regionales'',Canal 2 (Misiones)
+https://nd106.republicaservers.com:4433/hls/canal2misioness/1_0/index.m3u8?sessId=3880473
+#EXTINF: -1 tvg-id=''Canal2Salta.ar'' tvg-logo=''channels4_profile.jpg'' group-title=''Regionales'',Canal 2 (Salta)
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+#EXTINF: -1 tvg-id=''Canal2Sanagasta.ar'' tvg-logo=''unnamed.jpg'' group-title=''Regionales'',Canal 2 (Sanagasta)
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
+#EXTINF: -1 tvg-id=''Canal3Formosa.ar'' tvg-logo=''LOGO_CANAL_3.png'' group-title=''Regionales'',Canal 3 (Formosa)
+https://stmvideo6.livecastv.com/agenfor/agenfor/chunklist_w53074180.m3u8
+#EXTINF: -1 tvg-id=''Canal3LasHeras.ar'' tvg-logo=''canal3logo-x1.png'' group-title=''Regionales'',Canal 3 (Las Heras)
+https://stream.arcast.com.ar/canal3/canal3/chunklist_w1736723653.m3u8
+#EXTINF: -1 tvg-id=''Canal3Pinamar.ar'' tvg-logo=''IABFaH1.png'' group-title=''Regionales'',Canal 3 (Pinamar)
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
+#EXTINF: -1 tvg-id=''Canal4Eldorado.ar'' tvg-logo=''canal4-330x250.png'' group-title=''Regionales'',Canal 4 (Eldorado)
+https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/chunklist_w252455985.m3u8
+#EXTINF: -1 tvg-id=''Canal4Esquel.ar'' tvg-logo=''canal4esquel-800x450.jpg'' group-title=''Regionales'', Canal 4 (Esquel)
+https://stream.arcast.com.ar/canal4esquel/canal4esquel/chunklist_w1350413109.m3u8
+#EXTINF: -1 tvg-id=''Canal4Jujuy.ar'' tvg-logo=''Canal-4-Jujuy-en-vivo-Online.webp'' group-title=''Regionales'',Canal 4 (Jujuy)
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/chunklist_w2115836482.m3u8
+#EXTINF: -1 tvg-id=''Canal4Posadas.ar'' tvg-logo=''logo-web.png'' group-title=''Regionales'',Canal 4 (Posadas)
+https://iptv.ixfo.com.ar:30443/live-HD/C4POS/chunks.m3u8?nimblesessionid=52138077
+#EXTINF: -1 tvg-id=''Canal4SanJuan.ar'' tvg-logo=''Cuatro093d.webp'' group-title=''Regionales'',Canal 4 (San Juan)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF: -1 tvg-id=''Canal5DelPueblo.ar'' tvg-logo=''285187676_1572478549814661_8294597422241603778_n.png'' group-title=''Regionales'',Canal 5 (Del Pueblo - Alcorta)
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/chunklist_w1927762467.m3u8
+#EXTINF: -1 tvg-id=''Canal5PicoTruncado.ar'' tvg-logo=''canal5logo-x1.png'' group-title=''Regionales'',Canal 5 (Pico Truncado)
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF: -1 tvg-id=''Canal5Tucuman.ar'' tvg-logo=''hqdefault.jpg'' group-title=''Regionales'',Canal 5 (Tucumán)
+https://videohd.live:19360/8090/8090.m3u8
+#EXTINF: -1 tvg-id=''Canal6EntreRiosTV.ar'' tvg-logo=''Canal_6_ERTV_2021.png'' group-title=''Regionales'',Canal 6 (Entre Ríos)
+https://sae12.playlist.ttvnw.net/v1/playlist/CrIGFs63o1DGuyeNqkxU4mYvqvhUKcJqpgAY_PftL4yoaebDrRrTeiu5SCN4wzV2dSG9pspH5Hyb0Ri8uSkA847NHwiEaJMDlUxtrhwfz2FeRIoprGYbcQPcxrw1fqQh7tI-cGCCLe8IS3O7XUIhl6P_Pv2WzVjFCcU1Jx114wZvgD6Apyk08fRAVk5yD_lpQWlF6xxrh4wlJymUcoE2jCr6sC_Xpoo4xUpBOhgjqTDkzzxShmcTMkTYZ0MxXGJHFAMBC82gXb274AsPQdFYxGwZiwO59nHks4ACsCM3PFwPanA-rwhzULwip6ZEBQV5bvPfcirX82izF3FMdf7I3Fc733HlXeD1zj3OYLGEreXi0qFKlpxh1idr4Vnjg7by7VLay7I_80bmlFJhko1T6ICiTz38y9VEu05YJncpFJ3Vl0jk7KWXQyTND3N3FCROK_6Ig8aUAZMENs81D8RLkfsAZOVEEtSOHR4fq2R3ensGGlEDMFyN6wq2nPrYvoil4Ku1UwQAfQWnk977RLVYBSOQ4Vuvf2x3w7Suhf0SF9UfhQx2ZnHOxqBAk6rIucJG4i8hcqsMS_Idfs5iKeaUyPEZhbYiTnAPMs_AYPGyq7Pwfpvkpq-yloE3sAiQE5uPKNRn3DB15W5emZ_dgcjKLDIQqLWUQeY2OTy3Eiqw7uEUaPmCX-fReulqxoXARYIwv03yBVE9SLWgP4VnmKwfovME5leygMovdaLyQWXbfXqY7yLn-JWw7ATaLKwExWZODvrJUTbtZ7rubOTVagCgtRePJEvJ12KcQttZhf_RrM5Sq6_lg4s28mHu-XwkSm_Qp0rVf7OaSW_HEZU-t8T5A2hdh3Qfy7m47_-rMqGpqRQ9hSff0bKOvdc0C2TXydRttMTPjdr3eFSXy7v6mTCCMOmCa8mh9Fj-p-FR9QZOh2I0kOHDiaSteKi8FQJt1HLJn0QGeouEy-1l4Fo4LOhNW9L60_xXzj57hIHYYnQ8K_iQZiAjM08bFnJpGQSiRQz_-E1VIQjeJWSrvDq6d8A8TfRh90qQYNlG2sWE_k7Z8R3YANtipIBMrOs46A-OeH3y6EIWZbgaDI9v5teYha-qX5Pc6yABKgl1cy1lYXN0LTIwzAw.m3u8
+#EXTINF: -1 tvg-id=''Canal6MardelPlata.ar'' tvg-logo=''fNaIrvV.png'' group-title=''Regionales'',Canal 6 (Mar del Plata)
+https://panel.host-live.com/8186/8186/playlist.m3u8
+#EXTINF: -1 tvg-id=''Canal6Moreno.ar'' tvg-logo=''Canal-6-Moreno-en-vivo-Online.png'' group-title=''Regionales'',Canal 6 (Moreno)
+https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
+#EXTINF: -1 tvg-id=''Canal3Rosario.ar'' tvg-logo=''Eltres_TV_Rosario_29.webp'' group-title=''Regionales'',El Tres TV (Rosario)
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/track_2_500/playlist.m3u8
