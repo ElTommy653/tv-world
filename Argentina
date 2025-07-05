@@ -95,5 +95,11 @@ https://youtu.be/HrwFPh-UHiQ
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 #EXTINF: -1 tvg-id=''Canal9LaRioja.ar'' tvg-logo=''Canal_9_La_Rioja_(Logo_2020).png'' group-title=''Regionales'',Canal 9 (La Rioja)
 https://inliveserver.com:1936/12014/12014/playlist.m3u8
+#EXTINF: -1 tvg-id=''Canal9Litoral.ar'' tvg-logo=''Canal_9_Litoral_(Logo_2025).png'' group-title=''Regionales'',Canal 9 (Litoral)
+https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/chunklist_w1154384196_b1432576.m3u8
+#EXTINF: -1 tvg-id=''Canal9NorteMisionero.ar'' tvg-logo=''Canal-Nueve-Norte-Misionero-en-vivo-Online.png'' group-title=''Regionales'', Canal 9 (Norte Misionero)
+https://panel.host-live.com:19360/8076/8076.m3u8
+#EXTINF: -1 tvg-id=''CanalSiete.ar'' tvg-logo=''Canal_Siete_Bahia_Blanca.png'' group-title=''Regionales'',Canal Siete
+https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 #EXTINF: -1 tvg-id=''Canal3Rosario.ar'' tvg-logo=''Eltres_TV_Rosario_29.webp'' group-title=''Regionales'',El Tres TV (Rosario)
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/track_2_500/playlist.m3u8
