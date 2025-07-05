@@ -87,5 +87,13 @@ https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 https://stream.arcast.com.ar/envivo/castv/chunklist_w1358992925.m3u8
 #EXTINF: -1 tvg-id=''Canal8Catamarca.ar'' tvg-logo=''01xFIRJ.png'' group-title=''Regionales'',Canal 8 (Catamarca)
 https://stream.arcast.com.ar/c8/c8/playlist.m3u8
+#EXTINF: -1 tvg-id=''Canal8MardelPlata.ar'' tvg-logo=''Canal_8_Mar_del_Plata_2022_2.svg'' group-title=''Regionales'',Canal 8 (Mar del Plata)
+https://stream.arcast.ar/canal8mdp/ngrp:canal8mdp_all/chunklist_w206023589_b1463840_tkd293emF0b2tlbmVuZHRpbWU9MTc1MTcxNzUyMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9MW5KWDFYTVBja0hoLTJWRWpNRENNckQ1b3hIbmkxSDJxdllzNU1TZFZRND0=.m3u8
+#EXTINF: -1 tvg-id=''Canal8SanJuan.ar'' tvg-logo=''Canal_Ocho_San_Juan_(3D_Logo_2018)png'' group-title=''Regionales'',Canal 8 (San Juan)
+https://youtu.be/HrwFPh-UHiQ
+#EXTINF: -1 tvg-id=''Canal8ValledeUco.ar'' tvg-logo=''Ofacb64f7c7468a07681c5f27874d9a4_400x400.png'' group-title=''Regionales'',Canal 8 (Valle de Uco)
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+#EXTINF: -1 tvg-id=''Canal9LaRioja.ar'' tvg-logo=''Canal_9_La_Rioja_(Logo_2020).png'' group-title=''Regionales'',Canal 9 (La Rioja)
+https://inliveserver.com:1936/12014/12014/playlist.m3u8
 #EXTINF: -1 tvg-id=''Canal3Rosario.ar'' tvg-logo=''Eltres_TV_Rosario_29.webp'' group-title=''Regionales'',El Tres TV (Rosario)
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/track_2_500/playlist.m3u8
