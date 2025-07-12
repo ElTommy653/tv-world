@@ -77,6 +77,8 @@ https://sae12.playlist.ttvnw.net/v1/playlist/CrIGFs63o1DGuyeNqkxU4mYvqvhUKcJqpgA
 https://panel.host-live.com/8186/8186/playlist.m3u8
 #EXTINF: -1 tvg-id=''Canal6Moreno.ar'' tvg-logo=''Canal-6-Moreno-en-vivo-Online.png'' group-title=''Regionales'',Canal 6 (Moreno)
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
+#EXTINF: -1 tvg-id=''Canal6Posadas.ar'' tvg-logo=''C6Digital.png'' group-title=''Regionales'',Canal 6 (Posadas)
+https://iptv.ixfo.com.ar:30443/live/c6sd/chunks.m3u8?nimblesessionid=53088639
 #EXTINF: -1 tvg-id=''Canal7Jujuy.ar'' tvg-logo=''images.png'' group-title=''Regionales'',Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w720382231_b1146880.m3u8
 #EXTINF: -1 tvg-id=''Canal7Neuquen.ar'' tvg-logo=''Canal_7_Neuquén_logo_nuevo_2023.webp'' group-title=''Regionales'',Canal 7 (Neuquén)
@@ -97,8 +99,14 @@ https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 https://inliveserver.com:1936/12014/12014/playlist.m3u8
 #EXTINF: -1 tvg-id=''Canal9Litoral.ar'' tvg-logo=''Canal_9_Litoral_(Logo_2025).png'' group-title=''Regionales'',Canal 9 (Litoral)
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/chunklist_w1154384196_b1432576.m3u8
-#EXTINF: -1 tvg-id=''Canal9NorteMisionero.ar'' tvg-logo=''Canal-Nueve-Norte-Misionero-en-vivo-Online.png'' group-title=''Regionales'', Canal 9 (Norte Misionero)
+#EXTINF: -1 tvg-id=''Canal9NorteMisionero.ar'' tvg-logo=''Canal-Nueve-Norte-Misionero-en-vivo-Online.png'' group-title=''Regionales'',Canal 9 (Norte Misionero)
 https://panel.host-live.com:19360/8076/8076.m3u8
+#EXTINF: -1 tvg-id=''Canal9Resistencia'' tvg-logo=''Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png'' group-title=''Regionales'',Canal 9 Imagen del Nordeste (Resistencia)
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w868480088_b644100_sleng.m3u8
+#EXTINF: -1 tvg-id=''Canal9Televida'' tvg-logo=''Canal_9_Televida_(Logo_2015).webp'' group-title=''Regionales'',Canal 9 Televida (Mendoza)
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8?nimblesessionid=56165692
+#EXTINF: -1 tvg-id=''Canal10Cordoba.ar'' tvg-logo=''Canal_10_Córdoba_(Logo_2018).png'' group-title=''Regionales'',Canal 10 (Córdoba)
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF: -1 tvg-id=''CanalSiete.ar'' tvg-logo=''Canal_Siete_Bahia_Blanca.png'' group-title=''Regionales'',Canal Siete
 https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 #EXTINF: -1 tvg-id=''Canal3Rosario.ar'' tvg-logo=''Eltres_TV_Rosario_29.webp'' group-title=''Regionales'',El Tres TV (Rosario)
